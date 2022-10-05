@@ -1,11 +1,75 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
 
 body {
-    background-color: rgb(2, 19, 13);
+    background-color: rgb(245, 250, 248);
     font-family: 'Roboto', sans-serif;
     height: 100vh;
+    
 }
 
-h1{
+.primeiroArticle{
+  
+    background-color: aquamarine;
+text-align: center;
+
+}
+
+.primeiroLink{
+    border-color: aqua;
+}
+.segundoArticle{ 
+    
+    background-color: aquamarine;
     text-align: center;
 }
+
+.terceiroArticle{
+    
+    background-color: aquamarine;
+    text-align: center;
+}
+.quartoArticle{
+    
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h1 {
+   margin-top: auto;
+   margin-left: 50px;
+   padding: 10px;
+   border-radius: 50px;
+   color: rgb(0, 0, 0);
+}
+
+h2 { 
+    margin-top: auto;
+   margin-left: 50px;
+   padding: 10px;
+   border-radius: 50px;
+   color: rgb(0, 0, 0);
+ }
+
+
+
+form {
+    border-radius: 50px;
+    text-decoration: solid;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:aquamarine
+} 
+
+fieldset{
+    border-color: black;
+ 
+ }
+button {
+    border-radius: 15px;
+    background-origin: padding-box;
+}
+
+
+
